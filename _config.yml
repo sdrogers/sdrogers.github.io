@@ -28,7 +28,7 @@ twitter_username: sdrogers
 github_username:  sdrogers
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
