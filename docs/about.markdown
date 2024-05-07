@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I've been meaning for ages to try and write some more, and so this is where that writing is going to live. Only time will tell how much I actually end up posting here. I think it'll mostly be about AI, but who knows - I like other stuff too.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+About me: I work in data, for NHS Scotland (normal disclaimer -- all views on this site are my own). I was appointed to work in Artificial Intelligence / Machine Learning but I also work on more traditional data warehousing projects (because without good data, nothing else is going to work, and it's also very interesting). I've been at NHS Scotland since April 2021 and before that I spent >10 years as an academic in the School of Computing Science at the University of Glasgow where I did a lot of teaching, a lot of admin, and a fair amount of research. I also wrote [this textbook](https://www.amazon.co.uk/Course-Machine-Learning-Pattern-Recognition/dp/1498738486).
